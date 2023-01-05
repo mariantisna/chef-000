@@ -1,5 +1,5 @@
 {
-  "name": "website-starter-template",
+  "name": "chef-000",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,8 +9,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "sass": "^1.54.8",
-    "vite": "^3.0.7",
-    "vite-plugin-html-purgecss": "^0.1.1"
+    "sass": "^1.57.1",
+    "vite": "^4.0.0"
   }
 }
